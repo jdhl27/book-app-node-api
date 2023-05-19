@@ -1,0 +1,32 @@
+# Carpeta de dependencias
+node_modules/
+
+# Archivos generados al ejecutar la aplicación
+dist/
+build/
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+
+# Registro de errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Carpeta de cobertura de pruebas
+coverage/
+
+# Archivo de bloqueo de instalación
+package-lock.json
+
+# Directorio de entorno de desarrollo
+.env.local
+.env.development.local
+
+# Directorio de entorno de producción
+.env.production.local
+
+# Historial de versiones de Node.js
+.nvmrc
